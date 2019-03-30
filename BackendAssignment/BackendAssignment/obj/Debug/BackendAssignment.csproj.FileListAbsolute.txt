@@ -1,0 +1,6 @@
+c:\users\paulina\documents\visual studio 2015\Projects\BackendAssignment\BackendAssignment\bin\Debug\BackendAssignment.exe.config
+c:\users\paulina\documents\visual studio 2015\Projects\BackendAssignment\BackendAssignment\bin\Debug\BackendAssignment.exe
+c:\users\paulina\documents\visual studio 2015\Projects\BackendAssignment\BackendAssignment\bin\Debug\BackendAssignment.pdb
+c:\users\paulina\documents\visual studio 2015\Projects\BackendAssignment\BackendAssignment\obj\Debug\BackendAssignment.csprojResolveAssemblyReference.cache
+c:\users\paulina\documents\visual studio 2015\Projects\BackendAssignment\BackendAssignment\obj\Debug\BackendAssignment.exe
+c:\users\paulina\documents\visual studio 2015\Projects\BackendAssignment\BackendAssignment\obj\Debug\BackendAssignment.pdb
